@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2b58e25.css",
+    "main.js": "/static/js/main.9480bd80.js",
+    "static/js/787.4c7805b5.chunk.js": "/static/js/787.4c7805b5.chunk.js",
+    "static/media/doctorFoto.jpg": "/static/media/doctorFoto.ff791b454c6fa465ac5c.jpg",
+    "static/media/Fondo.png": "/static/media/Fondo.0ba16ced5b89a89be481.png",
+    "static/media/gimnasio.jpeg": "/static/media/gimnasio.85b8fbb8d23b913b79f6.jpeg",
+    "static/media/Logo2.png": "/static/media/Logo2.0c2edd9991d7fc64e8b4.png",
+    "static/media/hero-side-bg.png": "/static/media/hero-side-bg.682fd549c5183835ff70.png",
+    "index.html": "/index.html",
+    "main.a2b58e25.css.map": "/static/css/main.a2b58e25.css.map",
+    "main.9480bd80.js.map": "/static/js/main.9480bd80.js.map",
+    "787.4c7805b5.chunk.js.map": "/static/js/787.4c7805b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2b58e25.css",
+    "static/js/main.9480bd80.js"
+  ]
+}
